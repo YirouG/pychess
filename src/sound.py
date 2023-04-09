@@ -8,3 +8,4 @@ class Sound:
 
     def play(self):
         pygame.mixer.Sound.play(self.sound)
+        
